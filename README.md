@@ -39,3 +39,21 @@ Lista de Tarefas:
 ![Warlock's Familiar](https://vignette.wikia.nocookie.net/destinypedia/images/7/7b/Destiny_2_Warlock_Parade_Emblem.png/revision/latest/scale-to-width-down/185?cb=20170830011532)
 
 [Meu Site de RPG](http://pontosdemana.blogspot.com/)
+
+Num | Nome | Nota
+---|---|---
+42|Falcão|7
+7|Ana|9
+6|Murilo|5
+
+`Comando`
+
+```
+x = 2;
+y = 3;
+aux = x;
+x = y;
+y = aux;
+```
+
+:smile
