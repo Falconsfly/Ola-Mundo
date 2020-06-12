@@ -6,7 +6,7 @@
 
 <p>_Italico_ *Italico*</p>
 
-<p>**Negrito** __Negrito__</p>
+<p>__Negrito__ **Negrito**</p>
 
 <p>~Riscado~ ~~Riscado~~</p>
 
